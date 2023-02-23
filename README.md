@@ -1,4 +1,4 @@
-# Building Java Projects with Maven
+# Building Java Project with Maven
 This guide walks you through using Maven to build a simple Java project.
 
 ## What you’ll build
